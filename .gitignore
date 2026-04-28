@@ -1,0 +1,23 @@
+# 1. Veri Klasörleri ve Dosyaları
+# Ham veri setleri ve RFM hesaplamasından çıkan ara veriler depoda tutulmaz.
+data/raw/
+data/processed/
+*.csv
+*.xls
+*.xlsx
+
+# 2. Python ve Ortam (Environment) Artıkları
+# Derlenmiş Python dosyaları ve kütüphanelerin bulunduğu sanal ortam izlenmez.
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+venv/
+
+# 3. İşletim Sistemi Çöpleri
+# Windows ve Mac'in klasör indeksleme dosyaları engellenir.
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
