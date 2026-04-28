@@ -1,0 +1,8 @@
+{
+    "online_retail": {
+        "optimal_k": 4
+    },
+    "superstore": {
+        "optimal_k": 3
+    }
+}
