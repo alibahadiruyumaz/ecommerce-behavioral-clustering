@@ -42,5 +42,5 @@ Projenin teorik altyapısı, analiz sonuçları ve sunum dosyalarına aşağıda
 
 Bu proje aşağıdaki mühendisler tarafından tasarlanmış ve geliştirilmiştir:
 
-* **Yücel Berk ÜNALDI**
-* **Ali Bahadır UYUMAZ**
+* **Yücel Berk ÜNALDI** - [GitHub](https://github.com/yberkunaldi) 
+* **Ali Bahadır UYUMAZ** - [GitHub](https://github.com/alibahadiruyumaz) | [LinkedIn](https://www.linkedin.com/in/ali-bahadir-uyumaz)
